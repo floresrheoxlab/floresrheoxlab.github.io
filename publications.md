@@ -17,6 +17,7 @@ Roebuck, L., Flores, S., Tellam, J., Hughes, T.L., Bowron, D., Youngs, T., Harda
 **2024**  
 Flores, S. Fukuda, G., Yang, X., Bacabac, R., Matsukawa, S. *Analysis of nonlinear oscillatory shear using a modified Maxwell model employing odd-power series expansions*. **Journal of Biorheology**. DOI:https://doi.org/10.17106/jbr.38.2
 
+
 **2023**
 Flores, S., Mu, J., Cabry, C., Peterson, Carillo De Hert, S., Morrison, L., J., Cook, J., Stott, I., Hardacre, C., Avendaño, C. *Microstructural and thermodynamic characterization of wormlike micelles formed by polydisperse ionic surfactant solutions*. **Journal of Chemical Physics**. DOI:https://doi.org/10.1063/5.0153746
 
