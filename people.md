@@ -15,14 +15,4 @@ Group Leader
 
 ## Current members
 
-**Name** — Role (PhD / Postdoc / RA)  
-#Project (one line).
-
-**Name** — Role  
-#Project (one line).
-
----
-
-## Alumni
-
-- Name — now at …
+We are actively looking for PhD students and postdocs to join our group. Send us an email with your CV to discuss research opportunities in the group.
