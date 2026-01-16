@@ -3,7 +3,6 @@ layout: page
 permalink: /people/
 ---
 
-## Group lead
 
 **Dr Steph Flores**  
 Group Leader
