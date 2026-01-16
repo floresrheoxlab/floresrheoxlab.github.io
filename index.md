@@ -17,7 +17,7 @@ We are a research group working on rheology and multiscale simulations for soft 
 
 ## Research
 
-We combine experiments, modelling, and simulation to understand and predict the mechanics of soft materials.
+We combine experiments, modelling, and simulation to understand and predict the flow behaviour of soft materials.
 
 See: **[Research](/research/)**
 
