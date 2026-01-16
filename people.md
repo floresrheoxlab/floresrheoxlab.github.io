@@ -4,12 +4,14 @@ title: People
 permalink: /people/
 ---
 
-# People
-
 ## Group lead
 
 **Dr Steph Flores**  
 Group Leader
+Dame Kathleen Ollerenshaw Fellow
+Department of Chemical Engineering
+The University of Manchester
+Email: steph.flores@manchester.ac.uk
 
 ---
 
