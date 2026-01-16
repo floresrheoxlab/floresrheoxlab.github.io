@@ -6,7 +6,7 @@ permalink: /people/
 
 
 **Dr Steph Flores**  
-Group Leader
+Group Leader  
 Dame Kathleen Ollerenshaw Fellow  
 Department of Chemical Engineering  
 The University of Manchester   
