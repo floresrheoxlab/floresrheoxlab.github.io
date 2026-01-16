@@ -15,5 +15,3 @@ Flores, S. et al. *Paper title*. **Journal**. DOI:
 Flores, S. et al. *Paper title*. **Journal**. DOI:
 
 ---
-
-If you’d like, we can switch this page to an auto-generated list (BibTeX/ORCID export) later—still minimal, just less manual updating.
