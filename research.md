@@ -4,18 +4,17 @@ title: Research
 permalink: /research/
 ---
 
-# Research
 
 Our work focuses on the mechanics and flow of complex fluids and soft solids, combining rheological measurements with modelling and molecular simulation.
 
-## Nonlinear rheology
+*Rheology*
 Yielding, viscoelasticity, thixotropy, and time-dependent flow in complex fluids and soft solids.
 
-## Surfactants and self-assembly
+*Surfactants and self-assembly*
 Microstructure–rheology relationships in surfactant systems, mixtures, and formulations.
 
-## Hydrogels and soft networks
+*Hydrogels and soft networks*
 Structure–property links and nonlinear mechanics in physical and mixed networks.
 
-## Multiscale simulation
+*Multiscale simulation*
 Simulation workflows (atomistic → coarse-grained → continuum) to bridge microscopic structure and macroscopic rheology.
