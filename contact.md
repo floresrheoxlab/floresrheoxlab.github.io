@@ -6,8 +6,11 @@ permalink: /contact/
 
 **Flores RheoX Lab**  
 Steph Flores, PhD
+
 Dame Kathleen Ollerenshaw Fellow (Tenure-track Lecturer)
+
 Department of Chemical Engineering  
+
 University of Manchester  
 Manchester, UK
 
