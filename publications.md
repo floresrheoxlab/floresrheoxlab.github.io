@@ -4,9 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
-## Selected publications
+# Selected publications
 
 **2025**  
 Flores, S., Cabry, C., Barlow, H., Peterson, J., Cook, J., Mihailova, O., Stott, I., Avendaño, C., Hardacre, C. *Molecular architecture modulates self-assembly and micellar rheology of model ionic surfactant systems*. **Soft Matter**. DOI:https://doi.org/10.1039/D5SM00252D
