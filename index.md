@@ -3,8 +3,6 @@ layout: page
 permalink: /
 ---
 
-# Flores RheoX Lab
-
 Rheology Across Scales
 
 Computational and Experimental Soft Matter Rheology
