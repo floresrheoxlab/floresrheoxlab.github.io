@@ -19,6 +19,7 @@ Flores, S. Fukuda, G., Yang, X., Bacabac, R., Matsukawa, S. *Analysis of nonline
 
 
 **2023**
+
 Flores, S., Mu, J., Cabry, C., Peterson, Carillo De Hert, S., Morrison, L., J., Cook, J., Stott, I., Hardacre, C., Avendaño, C. *Microstructural and thermodynamic characterization of wormlike micelles formed by polydisperse ionic surfactant solutions*. **Journal of Chemical Physics**. DOI:https://doi.org/10.1063/5.0153746
 
 ---
