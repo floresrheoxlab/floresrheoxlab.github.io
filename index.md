@@ -3,9 +3,9 @@ layout: page
 permalink: /
 ---
 
-Computational and Experimental Soft Matter Rheology at The University of Manchester
+*Computational and Experimental Soft Matter Rheology at The University of Manchester*
 
-We are a research group working on rheology and multiscale simulations for soft matter, with a focus on surfactants and hydrogels. Our goal is to connect molecular structure and microstructure to macroscopic flow behaviour of complex fluids and material performance.
+Rheology across scales. We are a research group working on rheology and multiscale simulations for soft matter, with a focus on surfactants and hydrogels. Our goal is to connect molecular structure and microstructure to macroscopic flow behaviour of complex fluids and material performance.
 
 ---
 
