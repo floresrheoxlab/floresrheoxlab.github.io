@@ -6,9 +6,12 @@ permalink: /
 
 # Flores RheoX Lab
 
-We are a research group working on rheology and soft matter, with a focus on surfactants, hydrogels, and multiscale simulation. Our goal is to connect molecular structure and microstructure to macroscopic flow behaviour and material performance.
+Rheology Across Scales
+Computational and Experimental Soft Matter Rheology
 
-**Keywords:** nonlinear rheology · complex fluids · surfactants · hydrogels · multiscale modelling
+We are a research group working on rheology and multiscale simulations for soft matter, with a focus on surfactants and hydrogels. Our goal is to connect molecular structure and microstructure to macroscopic flow behaviour of complex fluids and material performance.
+
+**Keywords:** rheology · complex fluids · surfactants · hydrogels · multiscale modelling
 
 ---
 
