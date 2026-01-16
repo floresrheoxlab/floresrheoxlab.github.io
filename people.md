@@ -15,14 +15,14 @@ Group Leader
 
 ## Current members
 
-#**Name** — Role (PhD / Postdoc / RA)  
+**Name** — Role (PhD / Postdoc / RA)  
 #Project (one line).
 
-#**Name** — Role  
+**Name** — Role  
 #Project (one line).
 
 ---
 
-### Alumni
+## Alumni
 
-#- Name — now at …
+- Name — now at …
