@@ -11,6 +11,6 @@ Department of Chemical Engineering
 University of Manchester  
 Manchester, UK
 
-Email: your.name@manchester.ac.uk
+Email: steph.flores@manchester.ac.uk
 
 (Optionally add: GitHub / Bluesky / X / LinkedIn)
