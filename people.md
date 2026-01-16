@@ -7,14 +7,10 @@ permalink: /people/
 
 **Dr Steph Flores**  
 Group Leader
-
-Dame Kathleen Ollerenshaw Fellow
-
-Department of Chemical Engineering
-
-The University of Manchester
-
-Email: steph.flores@manchester.ac.uk
+Dame Kathleen Ollerenshaw Fellow  
+Department of Chemical Engineering  
+The University of Manchester   
+Email: steph.flores@manchester.ac.uk  
 
 ---
 
