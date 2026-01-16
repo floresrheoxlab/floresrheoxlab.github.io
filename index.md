@@ -9,7 +9,7 @@ We are a research group working on rheology and multiscale simulations for soft 
 
 ---
 
-## PhD Opportunities
+# PhD Opportunities
 
 We combine experiments, modelling, and simulation to understand and predict the flow behaviour of soft materials. We are currently recruiting PhD students for the following projects:
 
