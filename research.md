@@ -17,4 +17,4 @@ Microstructure–rheology relationships in surfactant systems, mixtures, and for
 Structure–property links and nonlinear mechanics in physical and mixed networks.
 
 *Multiscale simulation*    
-Simulation workflows (atomistic → coarse-grained → continuum) to bridge microscopic structure and macroscopic rheology.
+Simulation workflows (atomistic → coarse-grained → continuum) to bridge mesoscale structure and macroscopic rheology.
