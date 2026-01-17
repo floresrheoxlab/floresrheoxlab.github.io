@@ -10,9 +10,12 @@
   <body>
     <header class="site-header" role="banner">
       <div class="wrapper">
-        <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
-          Rheo<sup>X</sup> Lab
-        </a>
+        <a class="site-title logo" rel="author" href="{{ '/' | relative_url }}">
+          <img
+		src="{{ '/assets/images/rheoxheaderlogo.svg' | relative_url }}"
+		alt="RheoX Lab"
+          >
+	</a>
 
         <nav class="site-nav">
           {% for page in site.header_pages %}

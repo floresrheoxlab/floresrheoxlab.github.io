@@ -98,3 +98,12 @@ img {
   color: #666;
 }
 
+.site-title.logo img {
+  height: 42px;
+  width: auto;
+  display: block;
+}
+@media (max-width: 600px) {
+  .site-title.logo img { height: 36px; }
+}
+
