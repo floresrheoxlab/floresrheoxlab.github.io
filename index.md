@@ -18,7 +18,7 @@ We combine experiments, modelling, and simulation to understand and predict the 
 
 *Small molecule partitioning in surfactant micelles* [More details and apply here!](https://www.findaphd.com/phds/project/small-molecule-partitioning-in-surfactant-micelles/?p193669)  
 
-*Optimization of Multiscale Predictive Models for Surfactant Self-Assembly* [More details and apply here!](https://www.findaphd.com/phds/project/optimization-of-multiscale-predictive-models-for-surfactant-self-assembly/?p193650)  
+*Optimization of multiscale predictive models for surfactant self-assembly* [More details and apply here!](https://www.findaphd.com/phds/project/optimization-of-multiscale-predictive-models-for-surfactant-self-assembly/?p193650)  
 
 (Self-funded)  
 *Rheology of peptide-based self-assembled hydrogels* [More details and apply here!](https://www.findaphd.com/phds/project/rheological-studies-of-self-assembled-peptide-based-hydrogels-towards-injectable-biocompatible-hydrogels-for-cells-and-drugs-in-vivo-delivery/?p186170)  
